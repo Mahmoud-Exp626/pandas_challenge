@@ -1,5 +1,6 @@
 # pandas_challenge
 Module 4 challenge/homework 
+This work is a result of collaboration with my study group and online searches through Google. 
 
 Module 4 Challenge – Written Report
 
